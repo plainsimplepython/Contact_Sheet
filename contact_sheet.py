@@ -13,7 +13,7 @@ color_data = image.getdata()
 drawing_object = ImageDraw.Draw(image)
 
 # TODO put course font below
-font = ImageFont.truetype(r'/usr/share/fonts/truetype/freefont/FreeSerif.ttf', 40)
+font = ImageFont.truetype(r'readonly/FreeSerif.ttf', 40)
 
 ## creating image list
 images = []
